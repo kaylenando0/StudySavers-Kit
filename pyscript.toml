@@ -1,0 +1,10 @@
+name = "StudySavers Kit"
+
+[files]
+"./data.py" = "./data.py"
+"./cart.py" = "./cart.py"
+"./landing.py" = "./landing.py"
+"./kits.py" = "./kits.py"
+"./build.py" = "./build.py"
+"./how.py" = "./how.py"
+"./delivery.py" = "./delivery.py"
