@@ -13,7 +13,7 @@ HERO = """
 </div>
 </div>
 <div style="flex: 2 1 560px; min-width: 300px; display: flex; justify-content: center">
-<video src="intro.mp4" autoplay muted loop playsinline controls preload="auto"
+<video src="intro.mp4" autoplay muted loop playsinline controls preload="auto" style="width: 100%; max-width: 880px; display: block; border: 2px solid #14213D; border-radius: 16px; background: #14213D"></video>
 </div>
 </div>
 
